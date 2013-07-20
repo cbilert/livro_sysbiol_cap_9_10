@@ -1,29 +1,29 @@
-% Arquivo LaTeX de exemplo de dissertaï¿½ï¿½o/tese a ser apresentados ï¿½ CPG do IME-USP
+% Arquivo LaTeX de exemplo de dissertação/tese a ser apresentados à CPG do IME-USP
 % 
-% Versï¿½o 5: Sex Mar  9 18:05:40 BRT 2012
+% Versão 5: Sex Mar  9 18:05:40 BRT 2012
 %
-% Criaï¿½ï¿½o: Jesï¿½s P. Mena-Chalco
-% Revisï¿½o: Fabio Kon e Paulo Feofiloff
+% Criação: Jesús P. Mena-Chalco
+% Revisão: Fabio Kon e Paulo Feofiloff
 %  
 % Obs: Leia previamente o texto do arquivo README.txt
 
 \documentclass[11pt,twoside,a4paper]{book}
 
 % ---------------------------------------------------------------------------- %
-%Pacotes 
+% Pacotes 
 \usepackage[T1]{fontenc}
 \usepackage[brazil]{babel}
 \usepackage[latin1]{inputenc}
 \usepackage[pdftex]{graphicx}           % usamos arquivos pdf/png como figuras
-\usepackage{setspace}                   % espaï¿½amento flexï¿½vel
-\usepackage{indentfirst}                % indentaï¿½ï¿½o do primeiro parï¿½grafo
-\usepackage{makeidx}                    % ï¿½ndice remissivo
+\usepackage{setspace}                   % espaçamento flexível
+\usepackage{indentfirst}                % indentação do primeiro parágrafo
+\usepackage{makeidx}                    % índice remissivo
 \usepackage[nottoc]{tocbibind}          % acrescentamos a bibliografia/indice/conteudo no Table of Contents
 \usepackage{courier}                    % usa o Adobe Courier no lugar de Computer Modern Typewriter
-\usepackage{type1cm}                    % fontes realmente escalï¿½veis
-\usepackage{listings}                   % para formatar cï¿½digo-fonte (ex. em Java)
+\usepackage{type1cm}                    % fontes realmente escaláveis
+\usepackage{listings}                   % para formatar código-fonte (ex. em Java)
 \usepackage{titletoc}
-%\usepackage[bf,small,compact]{titlesec} % cabeï¿½alhos dos tï¿½tulos: menores e compactos
+%\usepackage[bf,small,compact]{titlesec} % cabeçalhos dos títulos: menores e compactos
 \usepackage[fixlanguage]{babelbib}
 \usepackage[font=small,format=plain,labelfont=bf,up,textfont=it,up]{caption}
 \usepackage[usenames,svgnames,dvipsnames]{xcolor}
@@ -31,11 +31,11 @@
 %\usepackage[pdftex,plainpages=false,pdfpagelabels,pagebackref,colorlinks=true,citecolor=black,linkcolor=black,urlcolor=black,filecolor=black,bookmarksopen=true]{hyperref} % links em preto
 \usepackage[pdftex,plainpages=false,pdfpagelabels,pagebackref,colorlinks=true,citecolor=DarkGreen,linkcolor=NavyBlue,urlcolor=DarkRed,filecolor=green,bookmarksopen=true]{hyperref} % links coloridos
 \usepackage[all]{hypcap}                % soluciona o problema com o hyperref e capitulos
-\usepackage[square,sort,nonamebreak,comma]{natbib}  % citaï¿½ï¿½o bibliogrï¿½fica alpha (alpha-ime.bst)
+\usepackage[square,sort,nonamebreak,comma]{natbib}  % citação bibliográfica alpha (alpha-ime.bst)
 \fontsize{60}{62}\usefont{OT1}{cmr}{m}{n}{\selectfont}
 
 % ---------------------------------------------------------------------------- %
-% Cabeï¿½alhos similares ao TAOCP de Donald E. Knuth
+% Cabeçalhos similares ao TAOCP de Donald E. Knuth
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
@@ -44,17 +44,17 @@
 \renewcommand{\headrulewidth}{0pt}
 
 % ---------------------------------------------------------------------------- %
-\graphicspath{{./figuras/}}             % caminho das figuras (recomendï¿½vel)
-\frenchspacing                          % arruma o espaï¿½o: id est (i.e.) e exempli gratia (e.g.) 
-\urlstyle{same}                         % URL com o mesmo estilo do texto e nï¿½o mono-spaced
-\makeindex                              % para o ï¿½ndice remissivo
-\raggedbottom                           % para nï¿½o permitir espaï¿½os extra no texto
+\graphicspath{{./figuras/}}             % caminho das figuras (recomendável)
+\frenchspacing                          % arruma o espaço: id est (i.e.) e exempli gratia (e.g.) 
+\urlstyle{same}                         % URL com o mesmo estilo do texto e não mono-spaced
+\makeindex                              % para o índice remissivo
+\raggedbottom                           % para não permitir espaços extra no texto
 \fontsize{60}{62}\usefont{OT1}{cmr}{m}{n}{\selectfont}
 \cleardoublepage
 \normalsize
 
 % ---------------------------------------------------------------------------- %
-% Opï¿½ï¿½es de listing usados para o cï¿½digo fonte
+% Opções de listing usados para o código fonte
 % Ref: http://en.wikibooks.org/wiki/LaTeX/Packages/Listings
 \lstset{ %
 language=Java,                  % choose the language of the code
@@ -86,43 +86,37 @@ framexrightmargin=10pt
 % Corpo do texto
 \begin{document}
 \frontmatter 
-% cabeï¿½alho para as pï¿½ginas das seï¿½ï¿½es anteriores ao capï¿½tulo 1 (frontmatter)
+% cabeçalho para as páginas das seções anteriores ao capítulo 1 (frontmatter)
 \fancyhead[RO]{{\footnotesize\rightmark}\hspace{2em}\thepage}
 \setcounter{tocdepth}{2}
 \fancyhead[LE]{\thepage\hspace{2em}\footnotesize{\leftmark}}
 \fancyhead[RE,LO]{}
 \fancyhead[RO]{{\footnotesize\rightmark}\hspace{2em}\thepage}
 
-\onehalfspacing  % espaï¿½amento
+\onehalfspacing  % espaçamento
 \thispagestyle{empty}
 \begin{center}
     \vspace*{2.3cm}
     \textbf{\Large{Primeiros passos a biologia de sistemas}}\\
     
     \vspace*{1.2cm}
-    \Large{Autores}
-    \\\textbf{Cristian Bilert}
-	\\\textbf{Denilson Fagundes Barbosa}
-	\\\textbf{Helton de Azevedo}
-	\\\textbf{Murilo Elias Rodrigues}
-	\\\textbf{Renan dos Santos Raquel}
-	\\\textbf{Rosana Ressa Aguiar Ambrosio}
-
+    \Large{Nome completo do Autores}
+    
     
     \vskip 1.5cm
        
     \vskip 0.5cm
-    \normalsize{Cornï¿½lio Procï¿½pio, Julho de 2013}
+    \normalsize{São Paulo, fevereiro de 2011}
 \end{center}
 
 
 % ---------------------------------------------------------------------------- %
 % CAPA
-% Nota: O tï¿½tulo para as dissertaï¿½ï¿½es/teses do IME-USP devem caber em um 
-% orifï¿½cio de 10,7cm de largura x 6,0cm de altura que hï¿½ na capa fornecida pela SPG.
+% Nota: O título para as dissertações/teses do IME-USP devem caber em um 
+% orifício de 10,7cm de largura x 6,0cm de altura que há na capa fornecida pela SPG.
 % ---------------------------------------------------------------------------- %
 % Agradecimentos:
-% Se o candidato nï¿½o quer fazer agradecimentos, deve simplesmente eliminar esta pï¿½gina 
+% Se o candidato não quer fazer agradecimentos, deve simplesmente eliminar esta página 
 \chapter*{Agradecimentos}
 Texto texto texto texto texto texto texto texto texto texto texto texto texto
 texto texto texto texto texto texto texto texto texto texto texto texto texto
@@ -134,16 +128,16 @@ texto texto texto texto. Texto opcional.
 % Resumo
 \chapter*{Resumo}
 
-\noindent SOBRENOME, A. B. C. \textbf{Tï¿½tulo do trabalho em portuguï¿½s}. 
+\noindent SOBRENOME, A. B. C. \textbf{Título do trabalho em português}. 
 2010. 120 f.
-Tese (Doutorado) - Instituto de Matemï¿½tica e Estatï¿½stica,
-Universidade de Sï¿½o Paulo, Sï¿½o Paulo, 2010.
+Tese (Doutorado) - Instituto de Matemática e Estatística,
+Universidade de São Paulo, São Paulo, 2010.
 \\
 
-Elemento obrigatï¿½rio, constituï¿½do de uma sequï¿½ncia de frases concisas e
-objetivas, em forma de texto.  Deve apresentar os objetivos, mï¿½todos empregados,
-resultados e conclusï¿½es.  O resumo deve ser redigido em parï¿½grafo ï¿½nico, conter
-no mï¿½ximo 500 palavras e ser seguido dos termos representativos do conteï¿½do do
+Elemento obrigatório, constituído de uma sequência de frases concisas e
+objetivas, em forma de texto.  Deve apresentar os objetivos, métodos empregados,
+resultados e conclusões.  O resumo deve ser redigido em parágrafo único, conter
+no máximo 500 palavras e ser seguido dos termos representativos do conteúdo do
 trabalho (palavras-chave). 
 Texto texto texto texto texto texto texto texto texto texto texto texto texto
 texto texto texto texto texto texto texto texto texto texto texto texto texto
@@ -163,16 +157,16 @@ texto texto.
 % ---------------------------------------------------------------------------- %
 % Abstract
 \chapter*{Abstract}
-\noindent SOBRENOME, A. B. C. \textbf{Tï¿½tulo do trabalho em inglï¿½s}. 
+\noindent SOBRENOME, A. B. C. \textbf{Título do trabalho em inglês}. 
 2010. 120 f.
-Tese (Doutorado) - Instituto de Matemï¿½tica e Estatï¿½stica,
-Universidade de Sï¿½o Paulo, Sï¿½o Paulo, 2010.
+Tese (Doutorado) - Instituto de Matemática e Estatística,
+Universidade de São Paulo, São Paulo, 2010.
 \\
 
 
-Elemento obrigatï¿½rio, elaborado com as mesmas caracterï¿½sticas do resumo em
-lï¿½ngua portuguesa. De acordo com o Regimento da Pï¿½s- Graduaï¿½ï¿½o da USP (Artigo
-99), deve ser redigido em inglï¿½s para fins de divulgaï¿½ï¿½o. 
+Elemento obrigatório, elaborado com as mesmas características do resumo em
+língua portuguesa. De acordo com o Regimento da Pós- Graduação da USP (Artigo
+99), deve ser redigido em inglês para fins de divulgação. 
 Text text text text text text text text text text text text text text text text
 text text text text text text text text text text text text text text text text
 text text text text text text text text text text text text text text text text
@@ -185,23 +179,23 @@ text text text.
 \noindent \textbf{Keywords:} keyword1, keyword2, keyword3.
 
 % ---------------------------------------------------------------------------- %
-% Sumï¿½rio
-\tableofcontents    % imprime o sumï¿½rio
+% Sumário
+\tableofcontents    % imprime o sumário
 
 % ---------------------------------------------------------------------------- %
 \chapter{Lista de Abreviaturas}
 \begin{tabular}{ll}
-         CFT         & Transformada contï¿½nua de Fourier (\emph{Continuous Fourier Transform})\\
+         CFT         & Transformada contínua de Fourier (\emph{Continuous Fourier Transform})\\
          DFT         & Transformada discreta de Fourier (\emph{Discrete Fourier Transform})\\
-        EIIP         & Potencial de interaï¿½ï¿½o elï¿½tron-ï¿½on (\emph{Electron-Ion Interaction Potentials})\\
+        EIIP         & Potencial de interação elétron-íon (\emph{Electron-Ion Interaction Potentials})\\
         STFT         & Tranformada de Fourier de tempo reduzido (\emph{Short-Time Fourier Transform})\\
 \end{tabular}
 
 % ---------------------------------------------------------------------------- %
-\chapter{Lista de Sï¿½mbolos}
+\chapter{Lista de Símbolos}
 \begin{tabular}{ll}
-        $\omega$    & Frequï¿½ncia angular\\
-        $\psi$      & Funï¿½ï¿½o de anï¿½lise \emph{wavelet}\\
+        $\omega$    & Frequência angular\\
+        $\psi$      & Função de análise \emph{wavelet}\\
         $\Psi$      & Transformada de Fourier de $\psi$\\
 \end{tabular}
 
@@ -211,25 +205,21 @@ text text text.
 \listoftables            
 
 % ---------------------------------------------------------------------------- %
-% Capï¿½tulos do trabalho
+% Capítulos do trabalho
 \mainmatter
 
-% cabeï¿½alho para as pï¿½ginas de todos os capï¿½tulos
+% cabeçalho para as páginas de todos os capítulos
 \fancyhead[RE,LO]{\thesection}
 
-\singlespacing              % espaï¿½amento simples
-%\onehalfspacing            % espaï¿½amento um e meio
+\singlespacing              % espaçamento simples
+%\onehalfspacing            % espaçamento um e meio
 
 \input cap-introducao        % associado ao arquivo: 'cap-introducao.tex'
-\input cap-dogma-biologia-molecular % associado ao arquivo: 'cap-dogma-biologia-molecular.tex'
-\input cap-biologia-sistemas
-\input cap-grns              % associado ao arquivo: 'cap-grns.tex' -> Redes de Regulaï¿½ï¿½o Gï¿½nica -> Denilson
-\input cap-redescomplexas_Er_Sw_Sf
-\input cap-modelos-probabilisticos   % associado ao arquivo: 'cap-modelos-probabilisticos' -> Cap. 12 Modelos Probabilisticos para Sequencias -> Rosana
-\input cap-metodos-expressao%cap 10 cristian
+\input cap-conceitos         % associado ao arquivo: 'cap-conceitos.tex'
+\input cap-grns              % associado ao arquivo: 'cap-grns.tex' -> Redes de Regulação Gênica -> Denilson
 \input cap-conclusoes        % associado ao arquivo: 'cap-conclusoes.tex'
-
-% cabeï¿½alho para os apï¿½ndices
+\input cap-metodos-expressao
+% cabeçalho para os apêndices
 \renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\appendixname\ \thechapter}} {\MakeUppercase{#1}} }
 \fancyhead[RE,LO]{}
 \appendix
@@ -238,18 +228,18 @@ text text text.
 
 % ---------------------------------------------------------------------------- %
 % Bibliografia
-\backmatter \singlespacing   % espaï¿½amento simples
-\bibliographystyle{alpha-ime}% citaï¿½ï¿½o bibliogrï¿½fica alpha
+\backmatter \singlespacing   % espaçamento simples
+\bibliographystyle{alpha-ime}% citação bibliográfica alpha
 \bibliography{bibliografia}  % associado ao arquivo: 'bibliografia.bib'
 
 % ---------------------------------------------------------------------------- %
-% ï¿½ndice remissivo
-\index{TBP|see{periodicidade regiï¿½o codificante}}
+% Índice remissivo
+\index{TBP|see{periodicidade região codificante}}
 \index{DSP|see{processamento digital de sinais}}
 \index{STFT|see{transformada de Fourier de tempo reduzido}}
 \index{DFT|see{transformada discreta de Fourier}}
 \index{Fourier!transformada|see{transformada de Fourier}}
 
-\printindex   % imprime o ï¿½ndice remissivo no documento 
+\printindex   % imprime o índice remissivo no documento 
 
 \end{document}

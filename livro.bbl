@@ -1,0 +1,30 @@
+\begin{thebibliography}{Ros06}
+
+\bibitem[Alb11]{Alberts}
+Alexander; Lewis Julian; Raff Martin; Roberts Keith; Walter~Peter. Alberts,
+  Bruce;~Johnson.
+\newblock {\em Biologia molecular da célula / Molecular cell biology.}
+\newblock Artmed, 5nd edi\c{c}\~{a}o, 2011.
+
+\bibitem[Alo09]{alon09:how}
+Uri Alon.
+\newblock {How To Choose a Good Scientific Problem}.
+\newblock {\em Molecular Cell}, 35(6):726--728, Setembro 2009.
+
+\bibitem[KE05]{Klipp2005}
+Kowald A. Wierling C. Lehrach~H. Klipp~E., Herwig~R.
+\newblock {\em Systems Biology in practice.}
+\newblock Wiley-VCH Verlag GmbH & Co KgaA, 2005.
+
+\bibitem[Nic06]{Nicholson2006}
+J.~K Nicholson.
+\newblock Global systems biology, personalized medicine and molecular
+  epidemiology.
+\newblock {\em Molecular systems biology}, 2:52, 2006.
+
+\bibitem[Ros06]{Rossignol2006}
+M~Rossignol.
+\newblock Proteomic analysis of phosphorylated proteins.
+\newblock {\em Plant Physiology}, 9:538--543, 2006.
+
+\end{thebibliography}

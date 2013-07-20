@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1374286361 "cap-introducao.tex" "cap-introducao.pdf" "cap-introducao" 1374286361
+  "/etc/texmf/web2c/texmf.cnf" 1374202057 1101 af7716885e081ab43982cab7b4672c1a ""
+  "/usr/share/texlive/texmf/web2c/texmf.cnf" 1351468918 31466 25867adcbb7c2423c76afd53e67c9231 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1374202316 3719793 6d37275a4751fbcaa2d41932f4126a73 ""
+  "cap-introducao.aux" 1374286316 8 a94a2480d3289e625eea47cd1b285758 ""
+  "cap-introducao.tex" 1374286360 3682 bf4fd007fe813773252a4ad166f2d60f ""
+  (generated)
+  "cap-introducao.log"
+  "cap-introducao.pdf"

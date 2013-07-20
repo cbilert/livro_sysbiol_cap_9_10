@@ -1,0 +1,45 @@
+\chapter{Redes Complexas}
+
+Sistemas complexos, são estudados há muito tempo por físicos e matemáticos. A busca do mapeamento de estrutura e funcionalidade dos sistemas reais traz a partir da década de 1990, algo chamado de teoria de redes complexas.[1] As redes complexas tentam expressas os sistemas naturais dinâmicos, que por sua vez possuem uma diversidade de comportamentos. A tradicional abordagem reducionista adotada pela pesquisa científica considera a divisão de sistemas em partes, que são analisadas individualmente, de modo a entender o comportamento global dos sistemas[2] Porém, mesmo com um enorme avanço desta metodologia ao longo dos últimos anos, não tornou possível utiliza-la em análises consideradas complexas, formadas por componentes individuais que se influenciam mutualmente[3]. Podemos verificar isso em casos como na neurociência, onde não é possível explicar fenômenos e processos cognitivos, através da análise de um simples neurônio[4].
+
+Mais precisamente em 1999 o foco nos sistemas complexos obtiveram um novo foco, isso ocorre quando Albert, Jeong e Barábasi realizaram uma grande descoberta, baseada em um trablho de 1967 do psicólogo Stanley Milgram[5] O experimento de Milgram consistia em distribuir aleatoriamente cartas entre cidadãos americanos. Cada carta continha um nome de uma pessoa alvo. Se o detentor da carta não conhecesse esse destinatário alvo, deveria entregar a carta a um amigo que teria chance maior de conhecê-lo. Para cada repasse de carta a pessoa que a recebeu deveria colocar seu nome na mesma, até chegar no destinatário, este último era encarregado de reenviar a carta ao responsável pelo estudo. Neste experimento Milgram notou que, em média, cada carta passava por seis pessoas antes de chegar ao destinatário.   Esse resultado culminou no conceito de seis graus de separação ou  efeito mundo-pequeno e mostra que um número pequeno separa os indivíduos de uma rede[6].
+
+Sua capacidade de explorar e oferecer novos horizontes no estudo de sistemas reais, faz com que a área de redes complexas, originada na teoria de gráfos (Séc. XVIII), ganhe cada vez mais atenção em diversas áreas de conhecimento. O inicio da teoria de grafos [7], é atribuída a Leonard Euler que em 1736, provou a inexistência de um caminho que passasse por todas as sete pontes de Konigsberg apenas uma única vez. Este problema foi resolvido utilizando um grafo, no qual cada ponte foi representada por uma aresta e os vértices representavam as regiões de terra ligadas pelas pontes[8]. Segundo Lopes (2001), o objetivo das redes é a representação de sistema reais, por meio da análise de dados experimentais, considerando que as redes são dinâmicas, podendo modificar sua estrutura ao logo do tempo.
+
+Desta foram uma rede complexa pode ser considerada um conjunto de vértices (Figura~\ref{fig:redescgrafos})  e arestas., onde cada vértice pode representar elementos como partículas, pessoas, proteínas, trabalhos acadêmicos etc; enquanto as arestas representam as relações ou cone~xoes entre eles, como a intereação entre partículas, a amizade entre pessoas, cooperação em trabalhos e semelhanças entre proteínas[9].
+
+\begin{figure}
+\begin{center}
+\includegraphics[width=0.6\textwidth]{figuras/RedesComplexasGrafo.jpg}
+\end{center}
+\caption{Exemplo de Rede, sendo indicado uma aresta e um vértice.  Fonte: ~\cite{REF}}
+\label{fig:redescgrafos}
+\end{figure}
+
+
+
+Diversos modelos teóricos foram desenvolvidos com a finalidade de representar uma categoria de sistemas, que possuem propriedades em comum, podemos citar como modelos significativos, os modelos relugares , Erdös-Renyi (aleatória), Watts-Strogtz(pequeno-mundo) e Barabási-Albert (livre de escala), que serão vistos nos próximos tópicos.
+
+
+
+\section{Rede Erdos}
+
+O modelo proposto por Paul Erdös e Alfréd Rényi em 1956 [10] foi o primeiro a abordar o as redes aleatórias, e é construído através de um conjunto de N vértices totalmente desconectados e a cada passo, dois vértices são escolhidos aleatoriamente e conectados com uma probabilidade fixa p, sendo cada par de vértices considerado apenas uma vez. Desta forma todas as ligações possuem a mesma probabilidade de ocorrerem, fazendo com que a rede gerada tenha uma estrutura altamente homogênea(figura 2). [11]
+
+\begin{figure}
+\begin{center}
+\includegraphics[width=0.6\textwidth]{figuras/Erdos.jpg}
+\end{center}
+\caption{Exemplo de Rede Aleatória}
+\label{fig:redeerdos}
+\end{figure}
+
+Fonte: [9]
+
+Essas redes apresentam tendências gerais para a maioria das propriedades, portanto, apesar de representarem poucos sistemas reais, são muito importantes para a análise do comportamento médio dessas propriedades em um conjunto de redes. Atualmente são as redes aleatórias são usadas como base para muitas outras redes sofisticadas.
+
+
+
+\section{Redes Small-World}
+
+Outro modelo de redes complexa em destaque é o modelo mundo pequeno (small-world), poroposto por Duncan Watts e Steven Strogatz  [12] Que visa explicar a propriedade de 

@@ -1,0 +1,6 @@
+PWD /home/cristian/Dropbox/DOCS MESTRADO/AULAS MESTRADO/2nd - BIMESTER/BIOLOGIA DE SISTEMAS/LIVRO_SYSBIOL/livro_biologia_sistema
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT cap-metodos-expressao.tex
+OUTPUT cap-metodos-expressao.log

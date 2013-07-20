@@ -1,0 +1,3814 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.7.18)  19 JUL 2013 23:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**livro.tex
+(./livro.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, et
+hiopic, farsi, arabic, pinyin, croatian, bulgarian, ukrainian, russian, slovak,
+ czech, danish, dutch, usenglishmax, ukenglish, finnish, french, basque, ngerma
+n, german, swissgerman, ngerman-x-2012-05-30, german-x-2012-05-30, monogreek, g
+reek, ibycus, ancientgreek, hungarian, bengali, tamil, hindi, telugu, gujarati,
+ sanskrit, malayalam, kannada, assamese, marathi, oriya, panjabi, italian, lati
+n, latvian, lithuanian, mongolian, mongolianlmc, nynorsk, bokmal, indonesian, e
+speranto, coptic, welsh, irish, interlingua, serbian, serbianc, slovenian, friu
+lan, romansh, estonian, romanian, armenian, uppersorbian, turkish, afrikaans, i
+celandic, kurmanji, polish, portuguese, galician, catalan, spanish, swedish, th
+ai, loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/var/lib/texmf/tex/generic/babel/babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/type1cm/type1cm.sty
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count90
+\lst@gtempboxa=\box26
+\lst@token=\toks17
+\lst@length=\count91
+\lst@currlwidth=\dimen106
+\lst@column=\count92
+\lst@pos=\count93
+\lst@lostspace=\dimen107
+\lst@width=\dimen108
+\lst@newlines=\count94
+\lst@lineno=\count95
+\lst@maxwidth=\dimen109
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count96
+\lst@skipnumbers=\count97
+\lst@framebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen110
+)
+(/usr/share/texlive/texmf-dist/tex/latex/babelbib/babelbib.sty
+Package: babelbib 2012/01/03 v1.31 babelbib: multilingual bibliographies (HH)
+\c@btxromaniannumeral=\count98
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+\captionmargin=\dimen111
+\captionmargin@=\dimen112
+\captionwidth=\dimen113
+\caption@indent=\dimen114
+\caption@parindent=\dimen115
+\caption@hangindent=\dimen116
+)
+\c@ContinuedFloat=\count99
+Package caption Info: listings package is loaded.
+)
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+(/usr/share/texmf/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2007/01/21 v2.11 Predefined colors according to SVG 1.1 (UK)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen117
+\Gm@wd@mp=\dimen118
+\Gm@odd@mp=\dimen119
+\Gm@even@mp=\dimen120
+\Gm@layoutwidth=\dimen121
+\Gm@layoutheight=\dimen122
+\Gm@layouthoffset=\dimen123
+\Gm@layoutvoffset=\dimen124
+\Gm@dimlist=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen125
+\Hy@linkcounter=\count103
+\Hy@pagecounter=\count104
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count105
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 3941.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 3941.
+Package hyperref Info: Option `colorlinks' set `true' on input line 3941.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3941.
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing ON on input line 4080.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4300.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2010/08/30 v1.36 Bibliographical back referencing
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count106
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count107
+\Field@Width=\dimen126
+\Fld@charsize=\dimen127
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing ON on input line 5786.
+Package hyperref Info: Link coloring ON on input line 5791.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count108
+\c@Item=\count109
+\c@Hfootnote=\count110
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+\Fld@listcount=\count111
+\c@bookmark@seq@number=\count112
+\Hy@SectionHShift=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypcap.sty
+Package: hypcap 2011/02/16 v1.11 Adjusting the anchors of captions (HO)
+) (./natbib.sty
+Package: natbib 2007/02/05 8.0 (PWD)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 602.
+\c@NAT@ctr=\count113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+\@indexfile=\write3
+\openout3 = `livro.idx'.
+
+
+Writing index file livro.idx
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+) (./livro.aux)
+\openout1 = `livro.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen128
+\scratchbox=\box28
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen129
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count120
+
+babelbib: Set bibliography fall-back language to brazil
+(/usr/share/texlive/texmf-dist/tex/latex/babelbib/portuguese.bdf
+File: portuguese.bdf 2012/01/03 v1.31 babelbib: multilingual bibliographies (HH
+)
+
+babelbib extension \btxifchangecaseoff added to \extrasbrazil
+)
+babelbib: Load BibTeX extensions \bibsbrazil for brazil
+babelbib: Set language for keywords in the bibliography fixed to brazil
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: hypcap package is loaded.
+Package caption Info: End \AtBeginDocument code.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 468.33257pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 715.87154pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=468.33257pt
+* \textheight=715.87154pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-31.87398pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=106.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box29
+Package backref Info: ** backref set up for natbib ** on input line 87.
+Package hyperref Info: Link coloring ON on input line 87.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count121
+)
+LaTeX Info: Redefining \ref on input line 87.
+LaTeX Info: Redefining \pageref on input line 87.
+LaTeX Info: Redefining \nameref on input line 87.
+
+(./livro.out) (./livro.out)
+\@outlinefile=\write4
+\openout4 = `livro.out'.
+
+ [1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] [3] [4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 137--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--160
+
+ []
+
+[5] [6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 166--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--184
+
+ []
+
+[7] [8
+
+] (./livro.toc)
+\tf@toc=\write5
+\openout5 = `livro.toc'.
+
+ [9] [10
+
+] [11] [12
+
+] [13] [14
+
+] (./livro.lof)
+\tf@lof=\write6
+\openout6 = `livro.lof'.
+
+ [15] [16
+
+]
+(./livro.lot)
+\tf@lot=\write7
+\openout7 = `livro.lot'.
+
+ [17] [18
+
+] (./cap-introducao.tex
+Cap\'{\i }tulo 1.
+
+Package natbib Warning: Citation `eco:09' on page 1 undefined on input line 7.
+
+
+Package natbib Warning: Citation `zobel:04' on page 1 undefined on input line 1
+2.
+
+
+Package natbib Warning: Citation `waz:09' on page 1 undefined on input line 14.
+
+
+
+Package natbib Warning: Citation `Higham:98' on page 1 undefined on input line 
+16.
+
+
+Package natbib Warning: Citation `Knuth:96' on page 1 undefined on input line 1
+8.
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 24.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Overfull \hbox (5.66743pt too wide) in paragraph at lines 31--31
+[]\T1/pcr/m/n/10 certo : Andrew e Foster introduziram o algoritmo Ûtimo (Andrew
+ e Foster, 1983).[] 
+ []
+
+
+Package natbib Warning: Citation `tufte01:visualDisplay' on page 1 undefined on
+ input line 40.
+
+[1
+
+]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
+
+
+LaTeX Warning: Reference `cap:conceitos' on page 2 undefined on input line 87.
+
+
+LaTeX Warning: Reference `cap:conclusoes' on page 2 undefined on input line 88.
+
+
+
+LaTeX Warning: Reference `ape:sequencias' on page 2 undefined on input line 91.
+
+
+) (./cap-dogma-biologia-molecular.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+Cap\'{\i }tulo 2.
+
+Overfull \hbox (6.84575pt too wide) in paragraph at lines 3--4
+[]\T1/cmr/m/n/10.95 Todas as cÔæ$[]$lulas de to-dos os se-res vi-vos, sem ne-nh
+uma exceÔæ$[]$Ôæ$[]$o, ape-sar de ca-sos especÔæ$[]$ficos
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 ...e auxiliam em praticamente todas as fun√ß√µ
+                                                  es celulares como transmis...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.6 \section
+            {Todas as c√©lulas transcrevem partes da informaÔøΩÔøΩo hereditÔ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (161.38547pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10.95 as fun√ü√$\OML/cmm/m/it/10.95 ^^Vescelularescomotransmiss\OT1
+/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 odesinais; recep\OMS/cmsy/m/n/10.95 x\OT1/
+cmr/m/it/10.95 $\OML/cmm/m/it/10.95 odeest\T1/cmr/m/n/10.95 -\OML/cmm/m/it/10.9
+5 mulos; regula\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 oa
+tivadoradosgenesparaprodu\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/10.95 $\OML/cmm/m/i
+t/10.95 odeoutrasprote\T1/cmr/m/n/10.95 -
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 6.
+
+Overfull \hbox (48.47008pt too wide) in paragraph at lines 6--6
+[]\T1/cmr/bx/n/14.4 Todas as c√[]lulas trans-cre-vem par-tes da informaÔæ$[]$Ôæ
+$[]$o hereditÔæ$[]$ria
+ []
+
+
+Package natbib Warning: Citation `Alberts' on page 3 undefined on input line 7.
+
+
+[3
+
+]
+
+Package natbib Warning: Citation `Alberts' on page 4 undefined on input line 15
+.
+
+
+Package natbib Warning: Citation `Alberts' on page 4 undefined on input line 17
+.
+
+
+Package natbib Warning: Citation `Alberts' on page 4 undefined on input line 19
+.
+
+<figuras/dogma_biologia_molecular.pdf, id=202, 186.6975pt x 186.6975pt>
+File: figuras/dogma_biologia_molecular.pdf Graphic file (type pdf)
+
+<use figuras/dogma_biologia_molecular.pdf>
+Package pdftex.def Info: figuras/dogma_biologia_molecular.pdf used on input lin
+e 23.
+(pdftex.def)             Requested size: 281.0024pt x 281.01413pt.
+
+Underfull \hbox (badness 1783) in paragraph at lines 25--25
+[]\T1/cmr/bx/n/10 Figura 2.1: |\T1/cmr/m/it/10 A informaÔæ$[]$Ôæ$[]$o genÔæ$[]$
+tica Ôæ$[]$ lida e pro-ces-sada em duas eta-pas. Pri-meiro, na
+ []
+
+) (./cap-biologia-sistemas.tex [4 <./figuras/dogma_biologia_molecular.pdf>]
+Cap\'{\i }tulo 3.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3 ...como finalidade entender os sistemas biol√≥
+                                                  gicos em detalhes para per...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.3 ...como finalidade entender os sistemas biol√≥
+                                                  gicos em detalhes para per...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \textcent invalid in math mode on input line 3.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...sciplinas como a Zoologia, Ecologia e Bot√¢
+                                                  nica, t√™m observado o com...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \textordfeminine invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 3.
+
+
+LaTeX Warning: Command \textordfeminine invalid in math mode on input line 3.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (1955.86777pt too wide) in paragraph at lines 3--4
+[]\T1/cmr/m/n/10.95 A Bi-o-lo-gia tem como fi-na-li-dade en-ten-der os sis-te-m
+as biol√$[]\OML/cmm/m/it/10.95 gicosemdetalhesparapermitirpredizerquantitativam
+enteoseudesempenho; incluindoosefeitosdetransforma\OMS/cmsy/m/n/10.95 x\OML/cmm
+/m/it/10.95 ^^Veseperturba\OMS/cmsy/m/n/10.95 x\OML/cmm/m/it/10.95 ^^Ves:Durant
+evariasd[]cadas; disciplinascomoaZoologia; EcologiaeBotnica; t[]mobservadoocomp
+ortamentodeseresvivosepopula\OMS/cmsy/m/n/10.95 x\OML/cmm/m/it/10.95 ^^Ves; jaB
+iologiaMoleculareaGen[]ticat[]mtentadoexplanarofuncionamentodeelementoscelulare
+sindividuaissobreomodocomoosdiversoselementoscelularesinteragementresiecomoambi
+ente:$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 ... a necessidade de pesquisar, de forma met√≥
+                                                  dica, o modo como processo...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.5 ... a necessidade de pesquisar, de forma met√≥
+                                                  dica, o modo como processo...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \textordfeminine invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 5.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.6 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+
+Overfull \hbox (272.98503pt too wide) in paragraph at lines 5--6
+[]\T1/cmr/m/n/10.95 Nos √$[]$ltimos dez anos, tornou-se clara a ne-ces-si-dade 
+de pes-qui-sar, de forma met√$[]\OML/cmm/m/it/10.95 dica; omodocomoprocessoscel
+ularesseintegramparapermitiravidaaon\T1/cmr/m/n/10.95 -
+ []
+
+
+Overfull \hbox (694.80695pt too wide) in paragraph at lines 5--6
+\OML/cmm/m/it/10.95 veldac[]lula; dotecido; do[]rg\OT1/cmr/m/it/10.95 $\OML/cmm
+/m/it/10.95 o; doorganismoedoecossistema:Aobten\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/
+it/10.95 $\OML/cmm/m/it/10.95 omassivadeinforma\OMS/cmsy/m/n/10.95 x\OML/cmm/m/
+it/10.95 ^^Vesembiologiamolecularecelulartemlevadoaumatransfer[]nciadabiologiac
+entradaemmol[]culasparaumabiologiacentradaemredes; desenvolvendo \OMS/cmsy/m/n/
+10.95 ^^@
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 ...as se refere ao estudo de fen√¥menos biol√≥
+                                                  gicos complexos como biolo...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.7 ...as se refere ao estudo de fen√¥menos biol√≥
+                                                  gicos complexos como biolo...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \textordfeminine invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \textcent invalid in math mode on input line 7.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ... em informa√ß√£o, a determina√ß√£o os par√¢
+                                                  metros das redes obtidas p...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 7.
+
+
+! LaTeX Error: Command \bfseries invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...de modelos plaus√≠veis~\cite{Nicholson2006}
+                                                  .
+Please use the math alphabet \mathbf instead of the \bfseries command. 
+
+
+Package natbib Warning: Citation `Nicholson2006' on page 5 undefined on input l
+ine 7.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (1023.59564pt too wide) in paragraph at lines 7--8
+[]\T1/cmr/m/n/10.95 A Bi-o-lo-gia de Sis-te-mas se re-fere ao es-tudo de fen√^^
+Amenos biol√$[]\OML/cmm/m/it/10.95 gicoscomplexoscomobiologiaquantitativa; rede
+smolecularescomplexas; modelosqualitativosequantitativospreditivos; redesderegu
+la\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 og[]nica; redes
+metab[]lica; entreoutras; quebuscamfornecerumasimplifica\OMS/cmsy/m/n/10.95 x\O
+T1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 oeabstra\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/
+it/10.95 $\OML/cmm/m/it/10.95 osobreeventoseprinc\T1/cmr/m/n/10.95 -
+ []
+
+
+Overfull \hbox (1000.16826pt too wide) in paragraph at lines 7--8
+\OML/cmm/m/it/10.95 piosqueformamoarcabou\OMS/cmsy/m/n/10.95 x\OML/cmm/m/it/10.
+95 onecessrioparaaanlisederedesmoleculares []quepermitem formula\OMS/cmsy/m/n/1
+0.95 x\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 odeexperimentosqueaperfei\OMS/cm
+sy/m/n/10.95 x\OML/cmm/m/it/10.95 oamaaquisi\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/
+10.95 $\OML/cmm/m/it/10.95 odedadosricoseminforma\OMS/cmsy/m/n/10.95 x\OT1/cmr/
+m/it/10.95 $\OML/cmm/m/it/10.95 o; adetermina\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it
+/10.95 $\OML/cmm/m/it/10.95 oosparmetrosdasredesobtidaspordadosexperimentaisead
+iferencia\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 o; comba
+senosdadosobtidos; demodelosplaus\T1/cmr/m/n/10.95 -
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.9 ...ca descobrir e impetrar propriedades biol√≥
+                                                  gicas que emergem da inter...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.9 ...ca descobrir e impetrar propriedades biol√≥
+                                                  gicas que emergem da inter...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 9.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 9.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (16.95778pt too wide) in paragraph at lines 9--10
+\T1/cmr/m/n/10.95 co-brir e im-pe-trar pro-pri-e-da-des biol√$[]\OML/cmm/m/it/1
+0.95 gicasqueemergemdaintera\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/10.95 $\OML/cmm/
+m/it/10.95 oentrediversosdadosdeumsistema:$ 
+ []
+
+
+Package natbib Warning: Citation `Klipp2005' on page 5 undefined on input line 
+11.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11 ... ambiente, alterando as condutas e rea√ß√µ
+                                                  es em resposta ao meio em ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 11.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 11.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.12 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+
+LaTeX Warning: Reference `fig:sysbiols' on page 5 undefined on input line 13.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...al grau de conhecimento em sistemas biol√≥
+                                                  gicos √© maior na base da ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.13 ...al grau de conhecimento em sistemas biol√≥
+                                                  gicos √© maior na base da ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \textcent invalid in math mode on input line 13.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...emas biol√≥gicos √© maior na base da pir√¢
+                                                  mide e seu avan√ßo √© meno...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \textcent invalid in math mode on input line 13.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...ss√°rio para se chegar ao topo desta pir√¢
+                                                  mide, uma vez que esta des...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \textordfeminine invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \textordfeminine invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 13.
+
+Runaway argument?
+{Klipp1996, Nielsen2001). 
+! Paragraph ended before \@citex was complete.
+<to be read again> 
+                   \par 
+l.14 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.14 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (1222.0553pt too wide) in paragraph at lines 13--14
+[]\T1/cmr/m/n/10.95 A Fi-gura [] de-mons-tra que o atual grau de co-nhe-ci-ment
+o em sis-te-mas biol√$[]\OML/cmm/m/it/10.95 gicos[]maiornabasedapirmideeseuavan
+\OMS/cmsy/m/n/10.95 x\OML/cmm/m/it/10.95 o[]menor medidaqueseprogrideparaocume;
+ devido complexidadedainforma\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/10.95 $\OML/cmm
+/m/it/10.95 o:DestaformaadisciplinaBiologiadeSistemas[]essencialparaseobterogra
+unecessrioparasechegaraotopodestapirmide; umavezqueestadescreveosvriosn\T1/cmr/
+m/n/10.95 -
+ []
+
+
+Overfull \hbox (316.871pt too wide) in paragraph at lines 13--14
+\OML/cmm/m/it/10.95 veisdeconhecimento; desdeassequ[]nciasdenucleot\T1/cmr/m/n/
+10.95 -\OML/cmm/m/it/10.95 deosques\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 oin
+erenteaosgenomas; passandopeloentendimentodafun\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/
+it/10.95 $\OML/cmm/m/it/10.95 odasmacromol[]culasbiol[]gicascomoprote\T1/cmr/m/
+n/10.95 -
+ []
+
+
+Overfull \hbox (79.01524pt too wide) in paragraph at lines 13--14
+\OML/cmm/m/it/10.95 naseRNAs; at[] incorpora\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/
+10.95 $\OML/cmm/m/it/10.95 odetodaaci[]nciaquepermitecompreenderumecossistemaea
+satividadesenvolvidasan\T1/cmr/m/n/10.95 -
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 ...surgiu com o intuito de aprimorar n√£o s√≥
+                                                   armazenamento e interpret...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.15 ...surgiu com o intuito de aprimorar n√£o s√≥
+                                                   armazenamento e interpret...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \textordfeminine invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \textordfeminine invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+
+LaTeX Warning: Reference `fig:sysbiols1' on page 5 undefined on input line 15.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 15.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+
+Overfull \hbox (2297.6297pt too wide) in paragraph at lines 15--16
+[]\T1/cmr/m/n/10.95 A Bi-o-lo-gia de Sis-te-mas sur-giu com o in-tuito de apri-
+mo-rar n√øo s√$[]\OML/cmm/m/it/10.95 armazenamentoeinterpreta\OMS/cmsy/m/n/10.9
+5 x\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 odedados; elatamb[]mpermiteamodelag
+emdosdados; umavezque; aci[]nciamatemticaeaintelig[]nciacomputacionalpermitemco
+mpreendermelhorosprocessosenvolvidos; fazendoprevis^^Vesbaseadasnodesenvolvimen
+toenoresultadodefatoresexternosderivadosdocomportamentodeumdeterminadosistema\O
+T1/cmr/m/n/10.95 ; \OML/cmm/m/it/10.95 quepodemenvolverinvestigadoresdesegmento
+smuitodistintos; conformepodeserobservadonaFigura []; apesardosdesafiosenvolvid
+osnocanaldecomunica\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.9
+5 oentreessasreas:$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 ...rocessos complexos como os sistemas biol√≥
+                                                  gicos podem explicados pel...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.17 ...rocessos complexos como os sistemas biol√≥
+                                                  gicos podem explicados pel...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 17.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 17.
+
+
+LaTeX Warning: Command \textcent invalid in math mode on input line 17.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ... devem obedecer as suas leis. A termodin√¢
+                                                  mica √© uma √°rea da f√≠si...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 17.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 17.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 17.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 17.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 17.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 17.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.18 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (545.96658pt too wide) in paragraph at lines 17--18
+\T1/cmr/m/n/10.95 biol√$[]\OML/cmm/m/it/10.95 gicospodemexplicadospelaf\T1/cmr/
+m/n/10.95 -\OML/cmm/m/it/10.95 sicaedevemobedecerassuasleis:Atermodinmica[]umar
+eadaf\T1/cmr/m/n/10.95 -\OML/cmm/m/it/10.95 sicaquepossuimelhoranalogiacomesses
+sistemasesuacompreens\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 otrazumavis\OT1/c
+mr/m/it/10.95 $\OML/cmm/m/it/10.95 omaisclaradofuncionamentodeles:$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 Para~citeonline{Willians1981} sistemas biol√≥
+                                                  gicos s√£o sistemas aberto...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.19 Para~citeonline{Willians1981} sistemas biol√≥
+                                                  gicos s√£o sistemas aberto...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \textcent invalid in math mode on input line 19.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ... vez a maquinaria bioqu√≠mica e termodin√¢
+                                                  mica envolvida est√£o perm...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \textordfeminine invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.20 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (202.94061pt too wide) in paragraph at lines 19--20
+[]\T1/cmr/m/n/10.95 Para ci-te-on-li-neWil-li-ans1981 sis-te-mas biol√$[]\OML/c
+mm/m/it/10.95 gicoss\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 osistemasabertosqu
+epermitemtrocasdeenergiaemat[]riacomomeioexterno; desdeon\T1/cmr/m/n/10.95 -
+ []
+
+
+Overfull \hbox (262.29897pt too wide) in paragraph at lines 19--20
+\OML/cmm/m/it/10.95 velcelularat[]on\T1/cmr/m/n/10.95 -\OML/cmm/m/it/10.95 veld
+esistemasnoqueserefere evolu\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/10.95 $\OML/cmm/
+m/it/10.95 o:Avidaemsuaformamaissimplesdemandaenergiamesmoemrepouso; umavezamaq
+uinariabioqu\T1/cmr/m/n/10.95 -
+ []
+
+
+Overfull \hbox (455.64787pt too wide) in paragraph at lines 19--20
+\OML/cmm/m/it/10.95 micaetermodinmicaenvolvidaest\OT1/cmr/m/it/10.95 $\OML/cmm/
+m/it/10.95 opermanentementeextraindoeutilizandoenergia; quet[]mimplica\OMS/cmsy
+/m/n/10.95 x\OML/cmm/m/it/10.95 ^^Vesprofundasnamaneiracomooservivodecomp^^Veae
+nergiaabsorvidadoseumeioparamante \OMS/cmsy/m/n/10.95 ^^@
+ []
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 A termodin√¢
+                 mica √© um ramo da ci√™ncia que se dedica ao estudo da ener...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...esafios, mas obedece as Leis da Termodin√¢
+                                                  mica. A primeira lei da te...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...rmodin√¢mica. A primeira lei da termodin√¢
+                                                  mica diz que a energia √© ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...nsformada. J√° a segunda lei da termodin√¢
+                                                  mica diz que um processo s...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...n√¢mica diz que um processo ser√° espont√¢
+                                                  neo se o caos do sistema a...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ...de um sistema, ou seja, processos espont√¢
+                                                  neos convertem ordem em de...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Runaway argument?
+{Armostrong1978, Garrote2005, Vasconcelos2005). 
+! Paragraph ended before \@citex was complete.
+<to be read again> 
+                   \par 
+l.22 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 A termodin√¢
+                 mica explica os princ√≠pios f√≠sicos e qu√≠micos reguladore...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.23 ...o das macromol√©culas e moleculares biol√≥
+                                                  gicos adjuntos, respons√°v...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.23 ...o das macromol√©culas e moleculares biol√≥
+                                                  gicos adjuntos, respons√°v...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 23.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (226.41628pt too wide) in paragraph at lines 23--24
+\T1/cmr/m/n/10.95 macromol√[]culas e mo-le-cu-la-res biol√$[]\OML/cmm/m/it/10.9
+5 gicosadjuntos; responsveisporpap[]isfundamentaisemtodososseresvivos; bemcomoa
+estabilidadedeprote\T1/cmr/m/n/10.95 -
+ []
+
+
+Overfull \hbox (407.47394pt too wide) in paragraph at lines 23--24
+\OML/cmm/m/it/10.95 nasecidosnucleicos; velocidadeemecanismodebiorrea\OMS/cmsy/
+m/n/10.95 x\OML/cmm/m/it/10.95 ^^Ves; transportedemol[]culaspormeiodemembranasb
+iol[]gicaseadescri\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95
+ odaestruturaereatividadedesistemasbiol[]gicosemgeral:$ 
+ []
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...s, n√£o seguem todas as leis da termodin√¢
+                                                  mica, isto significa, que ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...ismo celular conecta os processos espont√¢
+                                                  neos de Catabolismo (conju...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.25 ...nt√¢neos de Catabolismo (conjunto de a√ß√µ
+                                                  es metab√≥licas que quebra...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \textcent invalid in math mode on input line 25.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...mol√©culas) com os processos n√£o espont√¢
+                                                  neos de Anabolismo (proces...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \textcent invalid in math mode on input line 25.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...mo demanda a energia. Em termos termodin√¢
+                                                  micos, o metabolismo mant√...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 25.
+
+Runaway argument?
+{Dickerson1969, Demetrius2000). 
+! Paragraph ended before \@citex was complete.
+<to be read again> 
+                   \par 
+l.26 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.26 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.26 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (1522.54677pt too wide) in paragraph at lines 25--26
+\T1/cmr/m/n/10.95 sos es-pon-t√-neos de Ca-ta-bo-lismo (con-junto de a√ü√$\OML/
+cmm/m/it/10.95 ^^Vesmetab[]licasquequebramgrandesmol[]culas\OT1/cmr/m/n/10.95 )
+\OML/cmm/m/it/10.95 comosprocessosn\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95 oes
+pontneosdeAnabolismo\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 processopeloqualoco
+rpoaproveitaaenergialiberadapelocatabolismoparasintetizarmol[]culascomplexas\OT
+1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 :Ocatabolismoliberaaenergiaeoanabolismodem
+andaaenergia:Emtermostermodinmicos; ometabolismomant[]mobalan\OMS/cmsy/m/n/10.9
+5 x\OML/cmm/m/it/10.95 o; jqueosprocessosmetab[]licoss\OT1/cmr/m/it/10.95 $\OML
+/cmm/m/it/10.95 orea\OMS/cmsy/m/n/10.95 x\OML/cmm/m/it/10.95 ^^Vesqu\T1/cmr/m/n
+/10.95 -
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.27 ...leis que conjecturam e regulam as rela√ß√µ
+                                                  es entre biomol√©culas e s...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \textordfeminine invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 27.
+
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 27.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.27 ...m√∫tua entre os dados de fisiologia, gen√¥
+                                                  mica, prote√¥mica e metabo...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.27 ...m√∫tua entre os dados de fisiologia, gen√¥
+                                                  mica, prote√¥mica e metabo...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.27 ...m√∫tua entre os dados de fisiologia, gen√¥
+                                                  mica, prote√¥mica e metabo...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 27.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.27 ...os dados de fisiologia, gen√¥mica, prote√¥
+                                                  mica e metabol√¥mica, admi...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.27 ...os dados de fisiologia, gen√¥mica, prote√¥
+                                                  mica e metabol√¥mica, admi...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.27 ...os dados de fisiologia, gen√¥mica, prote√¥
+                                                  mica e metabol√¥mica, admi...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 27.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.27 ...ologia, gen√¥mica, prote√¥mica e metabol√¥
+                                                  mica, admitindo, assim, a ...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! Missing { inserted.
+<to be read again> 
+                   \egroup 
+l.27 ...ologia, gen√¥mica, prote√¥mica e metabol√¥
+                                                  mica, admitindo, assim, a ...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.27 ...ologia, gen√¥mica, prote√¥mica e metabol√¥
+                                                  mica, admitindo, assim, a ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 27.
+
+Runaway argument?
+{Gutierrez2005). 
+! Paragraph ended before \@citex was complete.
+<to be read again> 
+                   \par 
+l.28 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.28 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.28 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.28 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.28 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.28 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ë in font cmex10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ë in font cmex10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ë in font cmex10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (2079.73654pt too wide) in paragraph at lines 27--28
+[]\T1/cmr/m/n/10.95 Mais do que en-ten-der cada sis-tema e as leis que con-jec-
+tu-ram e re-gu-lam as rela√ü√$\OML/cmm/m/it/10.95 ^^Vesentrebiomol[]culaseseusm
+etabolismos;  ambi\OMS/cmsy/m/n/10.95 x\OT1/cmr/m/it/10.95 $\OML/cmm/m/it/10.95
+ odadisciplinadeBiologiadeSistemas[]compreenderesercapazdepredizerofuncionament
+odequalquersistema; c[]lula; tecidoouorganismo:Seuenfoqueestrelacionadoaoestudo
+dainflu[]nciam[]tuaentreosdadosdefisiologia; gen[]$ 
+ []
+
+
+Package natbib Warning: Citation `Rossignol2006' on page 5 undefined on input l
+ine 29.
+
+[5
+
+] <figuras/piramide_de_complexidade.pdf, id=218, 391.4625pt x 298.11375pt>
+File: figuras/piramide_de_complexidade.pdf Graphic file (type pdf)
+
+<use figuras/piramide_de_complexidade.pdf>
+Package pdftex.def Info: figuras/piramide_de_complexidade.pdf used on input lin
+e 34.
+(pdftex.def)             Requested size: 281.0024pt x 214.0049pt.
+
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\@xfootnote }\def \reserved@b {\stepcounter \@mpfn \protected@xdef \
+ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: Command \textcent unavailable in encoding T1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.36 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+<./figuras/Interdisciplinaridade_Biologia_Sistema.pdf, id=221, 845.0471pt x 597
+.51233pt>
+File: ./figuras/Interdisciplinaridade_Biologia_Sistema.pdf Graphic file (type p
+df)
+ <use ./figuras/Interdisciplinaridade_Biologia_Sistema.pdf>
+Package pdftex.def Info: ./figuras/Interdisciplinaridade_Biologia_Sistema.pdf u
+sed on input line 42.
+(pdftex.def)             Requested size: 281.0024pt x 198.69315pt.
+
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.44 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\@xfootnote }\def \reserved@b {\stepcounter \@mpfn \protected@xdef \
+ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.44 ...na e-Escola: http://e-escola.ist.utl.pt/}}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+) (./cap-grns.tex [6 <./figuras/piramide_de_complexidade.pdf> <./figuras/Interd
+isciplinaridade_Biologia_Sistema.pdf>]
+Cap\'{\i }tulo 4.
+
+Package natbib Warning: Citation `desmet:10' on page 7 undefined on input line 
+4.
+
+
+Package natbib Warning: Citation `lima:13' on page 7 undefined on input line 6.
+
+
+
+LaTeX Warning: File `grns1.jpg' not found on input line 10.
+
+
+! Package pdftex.def Error: File `grns1.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...udegraphics[width=.6\textwidth]{grns1.jpg}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Package natbib Warning: Citation `lima:13' on page 7 undefined on input line 15
+.
+
+
+Package natbib Warning: Citation `alon:06' on page 7 undefined on input line 17
+.
+
+[7
+
+]
+
+Package natbib Warning: Citation `lima:13' on page 8 undefined on input line 25
+.
+
+
+Package natbib Warning: Citation `lima:13' on page 8 undefined on input line 30
+.
+
+
+Package natbib Warning: Citation `desmet:10' on page 8 undefined on input line 
+32.
+
+
+LaTeX Warning: File `grns2.jpg' not found on input line 38.
+
+
+! Package pdftex.def Error: File `grns2.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...udegraphics[width=.6\textwidth]{grns2.jpg}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (./cap-redescomplexas_Er_Sw_Sf.tex [8] [9] [10
+
+]
+Cap\'{\i }tulo 5.
+<figuras/RedesComplexasGrafo.jpg, id=266, 158.994pt x 99.2508pt>
+File: figuras/RedesComplexasGrafo.jpg Graphic file (type jpg)
+
+<use figuras/RedesComplexasGrafo.jpg>
+Package pdftex.def Info: figuras/RedesComplexasGrafo.jpg used on input line 13.
+
+(pdftex.def)             Requested size: 281.0024pt x 175.44064pt.
+
+
+Package natbib Warning: Citation `REF' on page 11 undefined on input line 15.
+
+
+Package natbib Warning: Citation `REF' on page 11 undefined on input line 15.
+
+[11] <figuras/Erdos.jpg, id=272, 170.0754pt x 141.6492pt>
+File: figuras/Erdos.jpg Graphic file (type jpg)
+
+<use figuras/Erdos.jpg>
+Package pdftex.def Info: figuras/Erdos.jpg used on input line 31.
+(pdftex.def)             Requested size: 281.0024pt x 234.05255pt.
+) (./cap-modelos-probabilisticos.tex [12 <./figuras/RedesComplexasGrafo.jpg> <.
+/figuras/Erdos.jpg>] [13] [14
+
+]
+Cap\'{\i }tulo 6.
+) (./cap-metodos-expressao.tex [15] [16
+
+]
+Cap\'{\i }tulo 7.
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...{METODOS PARA MEDIR A EXPRESS√ÉO DOS GENES}
+                                                  
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 ...so de desenvolvimento celular ou altera√ß√µ
+                                                  es fisiol√≥gicas durante a...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 5.
+
+
+! LaTeX Error: Command \bfseries invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...olvimento de seres vivos.~\cite{Marcus2008}
+                                                  
+Please use the math alphabet \mathbf instead of the \bfseries command. 
+
+
+Package natbib Warning: Citation `Marcus2008' on page 17 undefined on input lin
+e 5.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.6 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (14.70805pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/10.95 sen-vol-vi-mento ce-lu-lar ou altera√ü√$\OML/cmm/m/it/10.95 ^
+^Vesfisiol[]gicasduranteasfasesdedesenvolvimentodeseresvivos: []$ 
+ []
+
+
+Package natbib Warning: Citation `Speed' on page 17 undefined on input line 7.
+
+)
+Runaway argument?
+{Heid1996), tamb√©m s√£o utilizdos os m√©todos de microarrays~\cite {\ETC.
+! File ended while scanning use of \@citex.
+<inserted text> 
+                \par 
+l.230 \input
+             cap-conclusoes        % associado ao arquivo: 'cap-conclusoes.tex'
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+(./cap-conclusoes.tex [17
+! Undefined control sequence.
+\filename@parse #1->\let \filename@area 
+                                        \@empty \expandafter \filename@path ...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...\ifx \\#2\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...#2\\}\fi \edef \filename@base 
+                                                  {#1}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@parse #1->\let \filename@area 
+                                        \@empty \expandafter \filename@path ...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...\ifx \\#2\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...#2\\}\fi \edef \filename@base 
+                                                  {#1}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ifx \\\\\let \filename@ext 
+                                       \relax \else \edef \filename@ext {\fi...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {##}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@parse #1->\let \filename@area 
+                                        \@empty \expandafter \filename@path ...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...\ifx \\#2\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...#2\\}\fi \edef \filename@base 
+                                                  {#1}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ifx \\\\\let \filename@ext 
+                                       \relax \else \edef \filename@ext {\fi...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {##}}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@parse #1->\let \filename@area 
+                                        \@empty \expandafter \filename@path ...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...\ifx \\#2\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...#2\\}\fi \edef \filename@base 
+                                                  {#1}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ifx \\\\\let \filename@ext 
+                                       \relax \else \edef \filename@ext {\fi...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {##}}}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@parse #1->\let \filename@area 
+                                        \@empty \expandafter \filename@path ...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...\ifx \\#2\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...#2\\}\fi \edef \filename@base 
+                                                  {#1}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ifx \\\\\let \filename@ext 
+                                       \relax \else \edef \filename@ext {\fi...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {##}}}}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@parse #1->\let \filename@area 
+                                        \@empty \expandafter \filename@path ...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...\ifx \\#2\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...#2\\}\fi \edef \filename@base 
+                                                  {#1}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ifx \\\\\let \filename@ext 
+                                       \relax \else \edef \filename@ext {\fi...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {##}}}}}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@parse #1->\let \filename@area 
+                                        \@empty \expandafter \filename@path ...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...\ifx \\#2\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...#2\\}\fi \edef \filename@base 
+                                                  {#1}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ifx \\\\\let \filename@ext 
+                                       \relax \else \edef \filename@ext {\fi...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {##}}}}}}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@parse #1->\let \filename@area 
+                                        \@empty \expandafter \filename@path ...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...\ifx \\#2\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...#2\\}\fi \edef \filename@base 
+                                                  {#1}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ifx \\\\\let \filename@ext 
+                                       \relax \else \edef \filename@ext {\fi...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {##}}}}}}}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@parse #1->\let \filename@area 
+                                        \@empty \expandafter \filename@path ...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...\ifx \\#2\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@simple ...#2\\}\fi \edef \filename@base 
+                                                  {#1}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \ifx \\\\\let \filename@ext 
+                                       \relax \else \edef \filename@ext {\fi...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {\ifx \\\\\let \filename@e...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...e@base {\ifx \\\\\let \filename@ext 
+                                                  \relax \else \edef \filena...
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ame@dot \\}\fi \edef \filename@base 
+                                                  {##}}}}}}}}
+l.2 \chapter
+            {Conclusıes}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\filename@parse #1->\let \filename@area 
+                                        \@empty \expandafter \filename@path ...
+l.2 \chapter
+            {Conclusıes}
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 10309 strings out of 493485
+ 151598 string characters out of 3143526
+ 293579 words of memory out of 3000000
+ 13349 multiletter control sequences out of 15000+200000
+ 29933 words of font info for 78 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 53i,13n,81p,1293b,539s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+!  ==> Fatal error occurred, no output PDF file produced!
